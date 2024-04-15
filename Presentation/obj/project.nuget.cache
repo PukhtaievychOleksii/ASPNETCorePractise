@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eBAzhXSBbMotL4p0CBJb+llMaAIxD4o5xZ0VpafnIB8a7oJkAtCkv2PNdqno2Rp+GJSKdw4LN4yePcVp84DRw==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\C#\\ASPProjectTemplate\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
